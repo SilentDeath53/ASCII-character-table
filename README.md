@@ -1,1 +1,2 @@
-# ASCII-character-table
+# ASCII Character Table
+Displays the ASCII character table.
